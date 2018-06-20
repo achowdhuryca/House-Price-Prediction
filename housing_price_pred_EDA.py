@@ -9,7 +9,7 @@ Created on Tue Jun 19 20:52:29 2018
 """
 Created on Sun Jun 17 18:14:51 2018
 
-@author: amin
+@author: ac
 """
 
 import numpy as np
